@@ -1,0 +1,54 @@
+h2 {
+    color:#0e378f;
+    
+}
+
+#email {
+    background-color: litewhite;
+    height: 30px;
+    width: 350px;
+    border-radius: 1;
+}
+
+#password {
+    background-color: litewhite;
+    height: 30px;
+    width: 350px;
+    border-radius: 2;
+}
+
+#login {
+    color: #FFFFFF;
+    
+    background-color: #3B5998;
+    height: 30px;
+    width: 350px;
+    border-radius: 5px 5px 5px 5px;
+    border: 0;
+    font-size: 17px;
+    font-weight: bold ;
+    
+}
+a{
+    text-decoration: none;
+}
+#signup {
+    color: #FFFFFF;
+    background-color:#90c721;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: none;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+td {
+    color: #3B5998;
+    border-collapse: collapse;
+    width: 100px;
+    font-weight: bold;
+}
+label {
+    color: #3B5998;
+}
